@@ -1,0 +1,309 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:55:24] filterscripts = ""  (string)
+[00:55:24] 
+[00:55:24] Server Plugins
+[00:55:24] --------------
+[00:55:24]  Loaded 0 plugins.
+
+[00:55:24] 
+[00:55:24] Filterscripts
+[00:55:24] ---------------
+[00:55:24]   Loaded 0 filterscripts.
+
+[00:55:24]  
+[00:55:24]  
+[00:55:24]  
+[00:55:24]  ======================================= 
+[00:55:24]  |                                     | 
+[00:55:24]  |        YSI version 4.00.0001        | 
+[00:55:24]  |        By Alex "Y_Less" Cole        | 
+[00:55:24]  |                                     | 
+[00:55:24]  ======================================= 
+[00:55:24]  
+[00:55:24] Mod ucitan
+[00:55:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:56:45] filterscripts = ""  (string)
+[00:56:45] 
+[00:56:45] Server Plugins
+[00:56:45] --------------
+[00:56:45]  Loading plugin: crashdetect
+[00:56:46]   CrashDetect plugin 4.20
+[00:56:46]   Loaded.
+[00:56:46]  Loading plugin: sscanf
+[00:56:46] 
+
+[00:56:46]  ===============================
+
+[00:56:46]       sscanf plugin loaded.     
+
+[00:56:46]          Version:  2.8.3        
+
+[00:56:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:56:46]  ===============================
+
+[00:56:46]   Loaded.
+[00:56:46]  Loading plugin: streamer
+[00:56:46] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[00:56:46]   Loaded.
+[00:56:46]  Loading plugin: MapAndreas
+[00:56:46]   Failed.
+[00:56:46]  Loading plugin: pawncmd
+[00:56:46]   Failed.
+[00:56:46]  Loading plugin: PawnPlus
+[00:56:46]   Failed.
+[00:56:46]  Loading plugin: FCNPC
+[00:56:46]   Failed.
+[00:56:46]  Loaded 3 plugins.
+
+[00:56:46] 
+[00:56:46] Filterscripts
+[00:56:46] ---------------
+[00:56:46]   Loaded 0 filterscripts.
+
+[00:56:46]  
+[00:56:46]  
+[00:56:46]  
+[00:56:46]  ======================================= 
+[00:56:46]  |                                     | 
+[00:56:46]  |        YSI version 4.00.0001        | 
+[00:56:46]  |        By Alex "Y_Less" Cole        | 
+[00:56:46]  |                                     | 
+[00:56:46]  ======================================= 
+[00:56:46]  
+[00:56:46] [debug] Long callback execution detected (hang or performance issue)
+[00:56:46] [debug] AMX backtrace:
+[00:56:46] [debug] #0 00001638 in GetPubVarIndexFromAddress (offset=-8) at C:\Users\Asmir\Desktop\Atheran Gaming\pawno\include\YSI\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:90
+[00:56:46] [debug] #1 000016c4 in bool:HaveToRelocateOpcodes () at C:\Users\Asmir\Desktop\Atheran Gaming\pawno\include\YSI\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:110
+[00:56:46] [debug] #2 000016f0 in Opcode:RelocateOpcodeNow (Opcode:opcode=70) at C:\Users\Asmir\Desktop\Atheran Gaming\pawno\include\YSI\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:115
+[00:56:46] [debug] #3 000035ec in InitOpcodeTable () at C:\Users\Asmir\Desktop\Atheran Gaming\pawno\include\YSI\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:655
+[00:56:46] [debug] #4 00003654 in Opcode:RelocateOpcode (Opcode:opcode=121) at C:\Users\Asmir\Desktop\Atheran Gaming\pawno\include\YSI\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:664
+[00:56:46] [debug] #5 00009e98 in public AMX_OnScriptInit () at C:\Users\Asmir\Desktop\Atheran Gaming\pawno\include\YSI\..\YSI_Storage\..\YSI_Coding\y_malloc/heapalloc.inc:198
+[00:56:46] [debug] #6 00007798 in public Debug_OnScriptInit () at C:\Users\Asmir\Desktop\Atheran Gaming\pawno\include\YSI\..\YSI_Storage\..\YSI_Core\..\YSI_Storage\y_amx.inc:207
+[00:56:46] [debug] #7 000070ec in public YVers_OnScriptInit () at C:\Users\Asmir\Desktop\Atheran Gaming\pawno\include\YSI\..\YSI_Storage\..\YSI_Core\..\YSI_Core\y_debug.inc:340
+[00:56:46] [debug] #8 000068a8 in public ScriptInit_OnScriptInit () at C:\Users\Asmir\Desktop\Atheran Gaming\pawno\include\YSI\..\YSI_Storage\..\YSI_Internal\y_version.inc:256
+[00:56:46] [debug] #9 0000651c in public OnGameModeInit () at C:\Users\Asmir\Desktop\Atheran Gaming\pawno\include\YSI\..\YSI_Storage\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:183
+[00:56:46] Mod ucitan
+[00:56:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:57:30] filterscripts = ""  (string)
+[00:57:30] 
+[00:57:30] Server Plugins
+[00:57:30] --------------
+[00:57:30]  Loading plugin: crashdetect
+[00:57:30]   CrashDetect v4.18.1 is OK.
+[00:57:30]   Loaded.
+[00:57:30]  Loading plugin: sscanf
+[00:57:30] 
+
+[00:57:30]  ===============================
+
+[00:57:30]       sscanf plugin loaded.     
+
+[00:57:30]          Version:  2.8.2        
+
+[00:57:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:57:30]  ===============================
+
+[00:57:30]   Loaded.
+[00:57:30]  Loading plugin: streamer
+[00:57:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:57:30]   Loaded.
+[00:57:30]  Loading plugin: MapAndreas
+[00:57:30]   Loaded.
+[00:57:30]  Loading plugin: pawncmd
+[00:57:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:57:30]   Loaded.
+[00:57:30]  Loading plugin: PawnPlus
+[00:57:30]  PawnPlus v1.3.1 loaded
+[00:57:30]  Created by IllidanS4
+[00:57:30]   Loaded.
+[00:57:30]  Loading plugin: FCNPC
+[00:57:30] 
+[00:57:30] -------------------------------------------------
+[00:57:30]      FCNPC - Fully Controllable NPC v2.0.2
+[00:57:30]             Windows SA-MP 0.3.7 R2
+[00:57:30]            Oct 17 2020 at 07:33:49
+[00:57:30] 
+[00:57:30]   Author:       OrMisicL (2013 - 2015)
+[00:57:30]   Continued by: ziggi    (2016 - present)
+[00:57:30] 
+[00:57:30]   See full credits in the README.md file
+[00:57:30] -------------------------------------------------
+[00:57:30] 
+[00:57:30] Loading...
+[00:57:30] 
+[00:57:30] -------------------------------------------------
+[00:57:30]    ColAndreasv1.4.0
+[00:57:30] 
+[00:57:30]    Created By:
+[00:57:30]      [uL]Chris42O
+[00:57:30]      [uL]Slice
+[00:57:30]      [uL]Pottus
+[00:57:30] -------------------------------------------------
+[00:57:30] 
+[00:57:30] Loading...
+[00:57:30] ColAndreas v1.4.0 Loaded.
+[00:57:30]   Loaded.
+[00:57:30]  Loaded 7 plugins.
+
+[00:57:30] 
+[00:57:30] Filterscripts
+[00:57:30] ---------------
+[00:57:30]   Loaded 0 filterscripts.
+
+[00:57:30] No collision data found.
+[00:57:30] [FCNPC] Warning: Unable to create NPCs. The maxnpc limit in server.cfg is 0.
+[00:57:30]  
+[00:57:30]  
+[00:57:30]  
+[00:57:30]  ======================================= 
+[00:57:30]  |                                     | 
+[00:57:30]  |        YSI version 4.00.0001        | 
+[00:57:30]  |        By Alex "Y_Less" Cole        | 
+[00:57:30]  |                                     | 
+[00:57:30]  ======================================= 
+[00:57:30]  
+[00:57:30] Mod ucitan
+[00:57:30] Number of vehicle models: 0
+[00:58:05] [connection] incoming connection: 127.0.0.1:63181 id: 0
+[00:58:05] [join] Yeet_Blau has joined the server (0:127.0.0.1)
+[00:58:08] Pozvao SavePlayer
+[00:58:08] *** YSI Warning: INI_Open could not find or create file Korisnici/Yeet_Blau.ini
+[00:58:08] Poceo sa pisanjem
+[00:58:08] Zavrsio
+[00:58:08] Zatvorio fajl
+[00:58:13] [part] Yeet_Blau has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:00:59] filterscripts = ""  (string)
+[01:00:59] 
+[01:00:59] Server Plugins
+[01:00:59] --------------
+[01:00:59]  Loading plugin: crashdetect
+[01:00:59]   CrashDetect v4.18.1 is OK.
+[01:00:59]   Loaded.
+[01:00:59]  Loading plugin: sscanf
+[01:00:59] 
+
+[01:00:59]  ===============================
+
+[01:00:59]       sscanf plugin loaded.     
+
+[01:00:59]          Version:  2.8.2        
+
+[01:00:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:00:59]  ===============================
+
+[01:00:59]   Loaded.
+[01:00:59]  Loading plugin: streamer
+[01:00:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:00:59]   Loaded.
+[01:00:59]  Loading plugin: MapAndreas
+[01:00:59]   Loaded.
+[01:00:59]  Loading plugin: pawncmd
+[01:00:59] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:00:59]   Loaded.
+[01:00:59]  Loading plugin: PawnPlus
+[01:00:59]  PawnPlus v1.3.1 loaded
+[01:00:59]  Created by IllidanS4
+[01:00:59]   Loaded.
+[01:00:59]  Loading plugin: FCNPC
+[01:00:59] 
+[01:00:59] -------------------------------------------------
+[01:00:59]      FCNPC - Fully Controllable NPC v2.0.2
+[01:00:59]             Windows SA-MP 0.3.7 R2
+[01:00:59]            Oct 17 2020 at 07:33:49
+[01:00:59] 
+[01:00:59]   Author:       OrMisicL (2013 - 2015)
+[01:00:59]   Continued by: ziggi    (2016 - present)
+[01:00:59] 
+[01:00:59]   See full credits in the README.md file
+[01:00:59] -------------------------------------------------
+[01:00:59] 
+[01:00:59] Loading...
+[01:00:59] 
+[01:00:59] -------------------------------------------------
+[01:00:59]    ColAndreasv1.4.0
+[01:00:59] 
+[01:00:59]    Created By:
+[01:00:59]      [uL]Chris42O
+[01:00:59]      [uL]Slice
+[01:00:59]      [uL]Pottus
+[01:00:59] -------------------------------------------------
+[01:00:59] 
+[01:00:59] Loading...
+[01:00:59] ColAndreas v1.4.0 Loaded.
+[01:00:59]   Loaded.
+[01:00:59]  Loaded 7 plugins.
+
+[01:00:59] 
+[01:00:59] Filterscripts
+[01:00:59] ---------------
+[01:00:59]   Loaded 0 filterscripts.
+
+[01:00:59] No collision data found.
+[01:00:59] [FCNPC] Warning: Unable to create NPCs. The maxnpc limit in server.cfg is 0.
+[01:00:59]  
+[01:00:59]  
+[01:00:59]  
+[01:00:59]  ======================================= 
+[01:00:59]  |                                     | 
+[01:00:59]  |        YSI version 3.09.0684        | 
+[01:00:59]  |        By Alex "Y_Less" Cole        | 
+[01:00:59]  |                                     | 
+[01:00:59]  ======================================= 
+[01:00:59]  
+[01:00:59]  
+[01:00:59]  
+[01:00:59] Mod ucitan
+[01:00:59] Number of vehicle models: 0
+[01:01:25] [connection] incoming connection: 127.0.0.1:56898 id: 0
+[01:01:25] [join] Yeet_Blau has joined the server (0:127.0.0.1)
+[01:01:28] Pozvao SavePlayer
+[01:01:28] Poceo sa pisanjem
+[01:01:28] Zavrsio
+[01:01:28] Zatvorio fajl
